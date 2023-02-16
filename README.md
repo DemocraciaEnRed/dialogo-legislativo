@@ -81,4 +81,5 @@ La licencia es GNU, puedes encontrarla en el siguiente enlace [LICENSE.MD](https
 
 
 > Versión original de esta documentación en [Leyes Abiertas](https://github.com/DemocraciaEnRed/leyesabiertas) por [Guille](https://github.com/guillecro) ✌️.
+>
 > Modificaciones particulares para Legislatura Ciudad Autónoma de Buenos Aires por [Pano](https://github.com/mpvaldez)
