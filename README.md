@@ -20,7 +20,7 @@
 
 ## 1. Nombre del proyecto
 
-- Diálogo Legislativo (Nombre provisional)
+- Diálogo Legislativo (Nombre provisorio)
 
 ## 2. Descripción y contexto
 
