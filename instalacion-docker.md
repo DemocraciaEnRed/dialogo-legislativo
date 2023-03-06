@@ -9,6 +9,8 @@
 > - Keycloak 4.4.x o 6.0.x
 > 
 > Keycloak es un sistema open source de identificación y gestión de acceso de usuarios. Es un sistema complejo y para fines de testing, en [Democracia en Red](https://democraciaenred.org) sabemos que la instalacion de Keycloak puede ser un bloqueo para intenciones de testing. Para eso, comunicate con nosotros y podemos ayudarte a hacer el setup y utilizar nuestro Keycloak de Democracia en Red. Envianos un correo electronico en [it@democraciaenred.org](mailto:it@democraciaenred.org) o contactanos a través de nuestro [Twitter](https://twitter.com/fundacionDER).
+> 
+> Para conocer más sobre keycloak lee nuestro [instructivo sobre el software](./sobre-keycloak.md)
 
 
 En primer lugar, descargar el repositorio
